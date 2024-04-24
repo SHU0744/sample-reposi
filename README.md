@@ -1,2 +1,3 @@
 # sample-reposi
-Git練習
+
+更新
